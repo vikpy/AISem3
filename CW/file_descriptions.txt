@@ -1,1 +1,0 @@
-This file can be used to maintain descriptions of the ipython notebooks added over here.
